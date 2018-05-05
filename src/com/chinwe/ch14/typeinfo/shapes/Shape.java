@@ -1,4 +1,4 @@
-package chinwe.ch14.typeinfo.shapes;
+package com.chinwe.ch14.typeinfo.shapes;
 
 public abstract class Shape {
     static {

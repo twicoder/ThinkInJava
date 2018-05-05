@@ -1,4 +1,4 @@
-package chinwe.ch14.typeinfo.toys;
+package com.chinwe.ch14.typeinfo.toys;
 
 interface HasBatteries {}
 

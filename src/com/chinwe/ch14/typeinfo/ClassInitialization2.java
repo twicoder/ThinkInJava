@@ -1,4 +1,4 @@
-package chinwe.ch14.typeinfo;
+package com.chinwe.ch14.typeinfo;
 
 class DemoData1 {
     static final int myconst = 101;

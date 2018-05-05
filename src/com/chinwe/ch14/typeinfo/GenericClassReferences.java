@@ -1,4 +1,4 @@
-package chinwe.ch14.typeinfo;
+package com.chinwe.ch14.typeinfo;
 
 public class GenericClassReferences {
     public static void main(String[] args) {
